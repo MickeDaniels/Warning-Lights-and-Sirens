@@ -1,0 +1,217 @@
+[Workspace Header]
+Version = 2000
+Pathname = "/c/data/WarningLights_And_Sirens/WarningLights_And_Sirens.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2020"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2020"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "WarningLights_And_Sirens.prj"
+Drag Bar Left = 282
+Window Top = 39
+Window Left = 233
+Window Bottom = 739
+Window Right = 1841
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 1
+Window Confinement Region Enabled = True
+MainColumnWidth = 265
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 2000
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/program files (x86)/national instruments/cvi2020/toolslib/toolbox/inifile.fp"
+File Type = "Function Panel"
+Disk Date = 3763334876
+In Projects = "1,"
+
+[File 0002]
+Path = "/c/data/Launching Temperature Monitoring/Launching Temperature Monitoring.c"
+File Type = "CSource"
+Disk Date = 3824187860
+In Projects = ""
+Source Window State = "1,166,166,166,27,27,27,0,0,0,0,0,0,0,0,0,151,0,166,27,400,600,0,0,"
+Window Z-Order = 1
+
+[File 0003]
+Path = "/c/data/WarningLights_And_Sirens/WarningLights_And_Sirens.uir"
+File Type = "User Interface Resource"
+Disk Date = 3851072121
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Height = 410
+Window Width = 807
+
+[File 0004]
+Path = "/c/data/WarningLights_And_Sirens/WarningLights_And_Sirens.c"
+File Type = "CSource"
+Disk Date = 3843875887
+In Projects = "1,"
+Source Window State = "1,376,376,376,57,57,57,0,0,0,0,0,0,0,0,0,335,0,376,57,429,807,1,0,"
+Window Top = 33
+Window Left = 10
+
+[File 0005]
+Path = "/c/data/WarningLights_And_Sirens/WarningLights_And_Sirens.ini"
+File Type = "Unknown"
+Disk Date = 3843879495
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+
+[File 0006]
+Path = "/c/data/WarningLights_And_Sirens/ADAMTCP.h"
+File Type = "Include"
+Disk Date = 3826875744
+In Projects = "1,"
+Source Window State = "1,133,133,133,33,33,33,0,0,0,0,0,0,0,0,0,116,0,133,33,638,1235,1,0,"
+Window Top = 33
+Window Left = -1145
+
+[File 0007]
+Path = "/c/data/WarningLights_And_Sirens/WarningLights_And_Sirens.h"
+File Type = "Include"
+Disk Date = 3851072121
+In Projects = "1,"
+Source Window State = "1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,429,807,1,0,"
+Window Top = 157
+Window Left = 74
+
+[File 0008]
+Path = "/c/data/WarningLights_And_Sirens/ADAMTCP.lib"
+File Type = "Library"
+Disk Date = 3219637666
+In Projects = "1,"
+
+[Tab Order]
+Tab 0001 = "/c/data/Launching Temperature Monitoring/Launching Temperature Monitoring.c"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Watch 1]
+Watch Expression = "AdamUnit"
+
+[Watch 2]
+Watch Expression = "bitPatternString"
+
+[Watch 3]
+Watch Expression = "AdamUnit[3].digitalString"
+
+[Distributions]
+Active Index = 1
+AbsCDSPath 0001 = "/c/data/WarningLights_And_Sirens/Warning_Lights_And_Sirens.cds"
+RelCDSPath 0001 = "Warning_Lights_And_Sirens.cds"
+
